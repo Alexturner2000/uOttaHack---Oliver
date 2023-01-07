@@ -23,4 +23,4 @@ Aside from the obvious learning about Java and android development, we learned q
 Since we are a group of friends who enjoy coding in their spare time, the plan is to polish Ollie up and put him on the Google play store. We will, of course, continue using it on our own, but we want to make sure our friends and everyone else in the world who could benefit can have access as well :)
 
 # Built With
-`Android` Studio Firebase Java
+`Android Studio` `Firebase` `Java`
